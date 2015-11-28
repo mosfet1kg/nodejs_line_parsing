@@ -1,0 +1,15 @@
+{
+  "name": "song",
+  "version": "1.0.0",
+  "description": "",
+  "main": "parse.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lazy": "^1.0.11",
+    "mongodb": "^2.0.49"
+  }
+}
